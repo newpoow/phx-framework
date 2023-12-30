@@ -3,9 +3,9 @@ namespace Phx;
 
 use Closure;
 use InvalidArgumentException;
-use Phx\Injection\Injectable;
 use Phx\Injection\Injector;
 use Phx\Injection\ServiceProviderInterface;
+use Phx\Injection\Support\Injectable;
 use Psr\Container\ContainerInterface;
 
 /**

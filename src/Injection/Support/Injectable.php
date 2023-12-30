@@ -1,5 +1,7 @@
 <?php declare(strict_types=1);
-namespace Phx\Injection;
+namespace Phx\Injection\Support;
+
+use Phx\Injection\Injector;
 
 /**
  * Provides knowledge to execute container methods.
